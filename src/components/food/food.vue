@@ -58,6 +58,7 @@
       <div>1111</div>
       <div>2222</div>
       <div>55555</div>
+      <div>555</div>
     </div>
   </transition>
 </template>
@@ -72,6 +73,7 @@
 
   const ALL = 2;
   console.log(111)
+alert(1)
   export default {
     props: {
       food: {

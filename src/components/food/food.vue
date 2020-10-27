@@ -57,7 +57,7 @@
       </div>
       <div>1111</div>
       <div>2222</div>
-      <div>333</div>
+      <div>355533</div>
     </div>
   </transition>
 </template>
@@ -71,7 +71,7 @@
   import split from 'components/split/split';
 
   const ALL = 2;
-
+  console.log(111)
   export default {
     props: {
       food: {

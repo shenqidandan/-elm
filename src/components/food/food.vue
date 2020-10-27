@@ -72,7 +72,7 @@
   import split from 'components/split/split';
 
   const ALL = 2;
-  console.log(111)
+  
 alert(1)
   export default {
     props: {
